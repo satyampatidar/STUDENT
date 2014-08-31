@@ -1,32 +1,9 @@
-/**
- *
-/**
- * @author Rohit Ahuja
- * rohitahuja@email.com
- * 9893075987
- */
-
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/*
- * SearchPanel.java
- *
- * Created on Apr 23, 2009, 8:53:11 AM
- */
 package com.vedisoft.sis;
 
 import java.util.Vector;
 import javax.swing.JFrame;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Administrator
- */
 public class SearchPanel extends javax.swing.JPanel {
 
     /** Creates new form SearchPanel */
@@ -122,14 +99,3 @@ public class SearchPanel extends javax.swing.JPanel {
     private javax.swing.JTextField jTextField1;
     // End of variables declaration//GEN-END:variables
 }
-/**
-* Vedisoft : Java - Module 1 "Desktop Technologies"
-*
-*
-*   Vedisoft Software & Education Services Pvt. Ltd.
-*   Plot No. 275, Zone II, M.P. Nagar,
-*   Bhopal.
-*   Phone : 0755 - 4076207, 4076208
-*   Email : contact@vedisoft.com
-*   Web : www.vedisoft.com
-*/
