@@ -1,33 +1,9 @@
-/**
- *
-/**
- * @author Rohit Ahuja
- * rohitahuja@email.com
- * 9893075987
- */
-
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/*
- * CourseSubjectsOne.java
- *
- * Created on Apr 18, 2009, 8:03:20 AM
- */
-
 package com.vedisoft.sis;
 
 import java.util.Vector;
 import javax.swing.JFrame;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Windows XP
- */
 public class CourseSubjectsOne extends javax.swing.JPanel {
 
     /** Creates new form CourseSubjectsOne */
@@ -88,14 +64,3 @@ public class CourseSubjectsOne extends javax.swing.JPanel {
     // End of variables declaration//GEN-END:variables
 
 }
-/**
-* Vedisoft : Java - Module 1 "Desktop Technologies"
-*
-*
-*   Vedisoft Software & Education Services Pvt. Ltd.
-*   Plot No. 275, Zone II, M.P. Nagar,
-*   Bhopal.
-*   Phone : 0755 - 4076207, 4076208
-*   Email : contact@vedisoft.com
-*   Web : www.vedisoft.com
-*/
