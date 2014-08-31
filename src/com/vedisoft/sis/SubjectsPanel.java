@@ -1,21 +1,6 @@
-/**
- *
-/**
- * @author Rohit Ahuja
- * rohitahuja@email.com
- * 9893075987
- */
-
-
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
- */
-
-/*
- * SubjectsPanel.java
- *
- * Created on Apr 17, 2009, 3:59:06 PM
  */
 package com.vedisoft.sis;
 
@@ -428,14 +413,3 @@ public class SubjectsPanel extends javax.swing.JPanel {
     private javax.swing.JTextField jTextField3;
     // End of variables declaration//GEN-END:variables
 }
-/**
-* Vedisoft : Java - Module 1 "Desktop Technologies"
-*
-*
-*   Vedisoft Software & Education Services Pvt. Ltd.
-*   Plot No. 275, Zone II, M.P. Nagar,
-*   Bhopal.
-*   Phone : 0755 - 4076207, 4076208
-*   Email : contact@vedisoft.com
-*   Web : www.vedisoft.com
-*/
