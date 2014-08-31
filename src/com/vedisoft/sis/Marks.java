@@ -1,19 +1,3 @@
-/**
- *
-/**
- * @author Rohit Ahuja
- * rohitahuja@email.com
- * 9893075987
- */
-//Table Creation
-
-/*
-Create Table Marks(
-marksid int(7),
-subjectid int(7),
-studentid int(7),
-marks int(7));
- */
 //Package Creation
 package com.vedisoft.sis;
 
@@ -314,14 +298,3 @@ public class Marks {
 
     }
 }
-/**
- * Vedisoft : Java - Module 1 "Desktop Technologies"
- *
- *
- *   Vedisoft Software & Education Services Pvt. Ltd.
- *   Plot No. 275, Zone II, M.P. Nagar,
- *   Bhopal.
- *   Phone : 0755 - 4076207, 4076208
- *   Email : contact@vedisoft.com
- *   Web : www.vedisoft.com
- */
