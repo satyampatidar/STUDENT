@@ -1,32 +1,9 @@
-/**
- *
-/**
- * @author Rohit Ahuja
- * rohitahuja@email.com
- * 9893075987
- */
-
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/*
- * SplashPanel.java
- *
- * Created on Apr 24, 2009, 1:55:56 PM
- */
 package com.vedisoft.sis;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
 import javax.swing.JWindow;
 
-/**
- *
- * @author Windows XP
- */
 public class SplashPanel extends javax.swing.JPanel {
 
     /** Creates new form SplashPanel */
@@ -88,14 +65,3 @@ public class SplashPanel extends javax.swing.JPanel {
     private javax.swing.JProgressBar jProgressBar1;
     // End of variables declaration//GEN-END:variables
 }
-/**
-* Vedisoft : Java - Module 1 "Desktop Technologies"
-*
-*
-*   Vedisoft Software & Education Services Pvt. Ltd.
-*   Plot No. 275, Zone II, M.P. Nagar,
-*   Bhopal.
-*   Phone : 0755 - 4076207, 4076208
-*   Email : contact@vedisoft.com
-*   Web : www.vedisoft.com
-*/
